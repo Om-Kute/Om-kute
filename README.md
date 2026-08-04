@@ -1,146 +1,232 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Om%20Kute&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Infrastructure%20Automation&descAlignY=55&descSize=18" width="100%"/>
+# Om Kute
 
-<br/>
+### DevOps & Cloud Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Monitoring+%26+Observability" alt="Typing SVG" />
+Building practical skills in **Linux, AWS, Git, Docker, CI/CD and Cloud Infrastructure**
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/om-kute-19b119270/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:omkute40@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Om-Kute">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-## 📌 About Me
+## About Me
 
-```yaml
-name: "Om Kute"
-role: "DevOps Engineer"
-focus: ["Cloud Infrastructure", "Automation", "CI/CD", "Container Orchestration"]
-currently_exploring: "Kubernetes & Infrastructure as Code at scale"
-collaboration: "Open to DevOps, Cloud, and Automation projects"
-fun_fact: "I believe in automating everything that can be automated 🤖"
-```
+I am a DevOps and Cloud enthusiast focused on building strong foundations in **Linux administration, cloud infrastructure, version control, containerization, and CI/CD**.
 
-<br/>
+I believe the best way to learn DevOps is by **building, deploying, breaking, troubleshooting, and automating real systems**.
 
-## 🧰 Tech Stack
+* ☁️ Currently working with **AWS**
+* 🐧 Strong focus on **Linux Administration**
+* 🔧 Working with **Git & GitHub**
+* 🐳 Learning **Docker & Containerization**
+* ⚙️ Exploring **CI/CD and Jenkins**
+* 🌐 Experience deploying applications using **AWS EC2 & Nginx**
+* 📈 Moving toward **Kubernetes, Terraform & Monitoring**
+
+---
+
+## Technical Skills
 
 <table>
 <tr>
-<td valign="top" width="33%">
-
-**☁️ Cloud & Infra**
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-**📦 Containers & Orchestration**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-**🔄 CI/CD & Automation**
-<br/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-
-</td>
+<td><b>Cloud</b></td>
+<td>AWS, EC2, S3, IAM, VPC</td>
 </tr>
+
 <tr>
-<td valign="top" width="33%">
+<td><b>Operating Systems</b></td>
+<td>Linux, Ubuntu</td>
+</tr>
 
-**📊 Monitoring**
-<br/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<tr>
+<td><b>Version Control</b></td>
+<td>Git, GitHub</td>
+</tr>
 
-</td>
-<td valign="top" width="33%">
+<tr>
+<td><b>Containers</b></td>
+<td>Docker</td>
+</tr>
 
-**💻 Scripting**
-<br/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+<tr>
+<td><b>CI/CD</b></td>
+<td>GitHub Actions, Jenkins</td>
+</tr>
 
-</td>
-<td valign="top" width="33%">
+<tr>
+<td><b>Web Server</b></td>
+<td>Nginx</td>
+</tr>
 
-**🌐 Web Servers**
-<br/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+<tr>
+<td><b>Scripting</b></td>
+<td>Bash, Python</td>
+</tr>
 
-</td>
+<tr>
+<td><b>Currently Learning</b></td>
+<td>Kubernetes, Terraform, Prometheus, Grafana</td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 📈 GitHub Analytics
+## Tools & Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=dracula&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Om-Kute&theme=dracula&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&theme=dracula&hide_border=true" width="98%"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins,nginx,python" />
 
 </div>
 
-<br/>
+---
 
-## 🏆 Achievements
+## DevOps Workflow
+
+```text id="o14k2w"
+Development
+     │
+     ▼
+Git / GitHub
+     │
+     ▼
+CI/CD Pipeline
+     │
+     ▼
+Docker
+     │
+     ▼
+AWS Infrastructure
+     │
+     ▼
+Nginx
+     │
+     ▼
+Production
+     │
+     ▼
+Monitoring
+```
+
+---
+
+## Featured Projects
+
+### AWS Web Application Deployment
+
+Deployed and configured a web application on an **AWS EC2 Linux instance** using **Nginx** as the web server.
+
+**Technologies:** `AWS` `EC2` `Linux` `Nginx` `Git`
+
+[View Repository](YOUR_PROJECT_LINK)
+
+---
+
+### Dockerized Application
+
+Containerized an application using Docker to create a consistent and portable deployment environment.
+
+**Technologies:** `Docker` `Linux` `Git` `Nginx`
+
+[View Repository](YOUR_PROJECT_LINK)
+
+---
+
+### CI/CD Automation
+
+Implemented an automated workflow for building and deploying application changes.
+
+**Technologies:** `GitHub` `GitHub Actions` `Jenkins` `Docker`
+
+[View Repository](YOUR_PROJECT_LINK)
+
+---
+
+### Smart Car Parking System
+
+Developed a smart parking system focused on improving parking management and application workflow.
+
+**Technologies:** `Software Development` `Automation`
+
+[View Repository](YOUR_PROJECT_LINK)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=dracula&no-frame=true&row=1&column=7" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
 </div>
 
-<br/>
+---
 
-## 🤝 Let's Connect
+## Contribution Activity
 
 <div align="center">
 
-I'm always open to discussing DevOps practices, cloud architecture, or potential collaborations.
-Feel free to reach out — always happy to network with fellow engineers!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
 
-<a href="https://www.linkedin.com/in/om-kute-19b119270/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</div>
+
+---
+
+## Current Focus
+
+```text id="b9oyyc"
+Linux Administration    ████████████████████
+Git & GitHub            ████████████████████
+AWS                     ████████████████░░░░
+Docker                  ██████████████░░░░░░
+CI/CD                   ███████████░░░░░░░░░
+Jenkins                 █████████░░░░░░░░░░░
+Kubernetes              █████░░░░░░░░░░░░░░░
+Terraform               ████░░░░░░░░░░░░░░░░
+```
+
+---
+
+## Certifications & Learning
+
+* AWS Cloud & DevOps
+* Linux Administration
+* Git & GitHub
+* Docker
+* CI/CD
+* Jenkins
+* Kubernetes *(In Progress)*
+* Terraform *(In Progress)*
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:omkute40@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Om-Kute&label=Profile%20Views&color=58A6FF&style=flat-square" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### Building reliable systems through Cloud, Automation & DevOps.
+
+</div>
