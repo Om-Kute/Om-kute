@@ -42,68 +42,23 @@
 
 ## 🧰 Tech Arsenal
 
-<table width="100%">
-<tr>
-<th align="center">Category</th>
-<th align="center">Stack</th>
-</tr>
-<tr>
-<td align="center"><b>Operating Systems</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Cloud</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Containers & Orchestration</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>CI/CD & IaC</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Monitoring</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Version Control</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Scripting</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Web Servers</b></td>
-<td align="center">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="Terraform" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" title="Ansible" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Grafana" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" title="YAML" width="45" height="45"/>
+</p>
 
 <br/>
 
@@ -111,12 +66,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Om-Kute&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://streak-stats.demolab.com?user=Om-Kute&theme=dracula&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=dracula&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&theme=dracula&hide_border=true&area=true" width="98%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=dracula&hide_border=true" width="48%"/>
 
 </div>
 
@@ -128,14 +81,12 @@
 <img src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> **Note:** the snake animation needs a one-time GitHub Actions setup in your `Om-Kute/Om-Kute` repo — I've included the workflow file below so it generates automatically.
-
 <br/>
 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=dracula&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 <br/>
