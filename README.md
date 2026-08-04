@@ -1,349 +1,96 @@
-<!-- ===================== DEVOPS TERMINAL ===================== -->
+<h1 align="center">Hi there, I'm Om Kute 👋</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Linux Practitioner</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Infrastructure+Automation;Linux+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+IaC+%7C+Monitoring" alt="Typing SVG" />
+</p>
 
-# ⚡ DEVOPS CONTROL CENTER
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│  USER        : Om                                             │
-│  ROLE        : DevOps & Cloud Enthusiast                      │
-│  SYSTEM      : Linux                                          │
-│  CLOUD       : AWS                                            │
-│  STATUS      : 🟢 Learning • Building • Automating            │
-└───────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-```bash
-om@devops:~$ whoami
-DevOps & Cloud Enthusiast
-
-om@devops:~$ cat current-focus.txt
-☁️ AWS
-🐳 Docker
-⚙️ CI/CD
-🐧 Linux
-🔧 Git & GitHub
-
-om@devops:~$ echo $MISSION
-"Automate everything that should not be manual."
-
-om@devops:~$ ./career.sh
-[████████████████████████░░░░░░] Building...
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-kute-19b119270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omkute40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Om-Kute">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Deployment Pipeline
+### 🚀 About Me
 
-```mermaid
-flowchart LR
-    A[💻 Code] --> B[🔧 Git]
-    B --> C[🐙 GitHub]
-    C --> D[⚙️ CI/CD]
-    D --> E[🐳 Docker]
-    E --> F[☁️ AWS]
-    F --> G[🌐 Production]
-```
+- 🔧 I love automating infrastructure and building reliable, scalable systems
+- ☁️ Currently exploring deeper **Cloud & Kubernetes** ecosystems
+- 🌱 Always learning new tools in the DevOps space
+- 🤝 Open to collaborating on DevOps, Cloud, and Automation projects
+- 💬 Ask me about Linux, CI/CD pipelines, and Infrastructure as Code
+- 📫 Reach me at **omkute40@gmail.com**
 
 ---
 
-# 🛰️ Infrastructure Map
+### 🛠️ Tech Stack & Tools
 
-```mermaid
-flowchart TD
-
-    DEV[👨‍💻 Developer]
-
-    DEV --> GIT[Git]
-    GIT --> GH[GitHub]
-
-    GH --> CI[CI/CD Pipeline]
-
-    CI --> DOCKER[Docker]
-
-    DOCKER --> AWS[AWS Cloud]
-
-    AWS --> EC2[EC2]
-    AWS --> S3[S3]
-    AWS --> VPC[VPC]
-
-    EC2 --> NGINX[Nginx]
-    NGINX --> APP[🚀 Application]
-
-    APP --> MONITOR[📊 Monitoring]
-
-    MONITOR --> PROM[Prometheus]
-    MONITOR --> GRAF[Grafana]
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
 
 ---
 
-# 🧠 `/etc/devops/skills.conf`
+### 📊 GitHub Stats
 
-```ini
-[Operating_System]
-Linux=true
-Ubuntu=true
-Shell_Scripting=true
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-[Version_Control]
-Git=true
-GitHub=true
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Kute&theme=tokyonight&hide_border=true" />
+</p>
 
-[Cloud]
-AWS=true
-EC2=true
-S3=true
-IAM=true
-VPC=learning
-
-[Containers]
-Docker=learning
-Docker_Compose=learning
-
-[CI_CD]
-GitHub_Actions=learning
-Jenkins=learning
-
-[Web_Server]
-Nginx=true
-
-[Infrastructure_As_Code]
-Terraform=next
-
-[Orchestration]
-Kubernetes=next
-
-[Monitoring]
-Prometheus=next
-Grafana=next
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 🐳 `docker-compose.yml` — My DevOps Journey
+### 🏆 GitHub Trophies
 
-```yaml
-services:
-
-  linux:
-    image: ubuntu
-    status: running
-
-  git:
-    depends_on:
-      - linux
-    status: running
-
-  aws:
-    depends_on:
-      - linux
-      - git
-    status: learning
-
-  docker:
-    depends_on:
-      - linux
-    status: learning
-
-  cicd:
-    depends_on:
-      - git
-      - docker
-    status: upcoming
-
-  kubernetes:
-    depends_on:
-      - docker
-    status: queued
-
-  terraform:
-    depends_on:
-      - aws
-    status: queued
-
-  monitoring:
-    depends_on:
-      - kubernetes
-    status: queued
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-# 🔄 System Logs
+### 🤝 Connect with Me
 
-```log
-[ OK ] Linux fundamentals loaded
-[ OK ] Git initialized
-[ OK ] GitHub connected
-[ OK ] SSH authentication configured
-[ OK ] Nginx server deployed
-[ OK ] AWS EC2 instance launched
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-kute-19b119270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omkute40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[ .. ] Docker loading...
-[ .. ] CI/CD pipeline loading...
-[ .. ] Jenkins loading...
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Om-Kute&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
-[ -- ] Kubernetes queued
-[ -- ] Terraform queued
-[ -- ] Prometheus queued
-[ -- ] Grafana queued
-```
-
----
-
-# 🏗️ Current Architecture
-
-```text
-                    ┌───────────────┐
-                    │   Developer   │
-                    │      💻       │
-                    └───────┬───────┘
-                            │
-                         git push
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    GitHub     │
-                    │      🐙       │
-                    └───────┬───────┘
-                            │
-                         Trigger
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     CI/CD     │
-                    │      ⚙️       │
-                    └───────┬───────┘
-                            │
-                           Build
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    Docker     │
-                    │      🐳       │
-                    └───────┬───────┘
-                            │
-                          Deploy
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     AWS       │
-                    │      ☁️       │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  Production   │
-                    │      🚀       │
-                    └───────────────┘
-```
-
----
-
-# ⚔️ DevOps Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins,nginx,python&perline=10" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,grafana,prometheus&perline=10" />
-
-</div>
-
----
-
-# 📡 GitHub System Monitor
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Pipeline
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-# 🎯 `roadmap.sh`
-
-```bash
-#!/bin/bash
-
-echo "🚀 Starting DevOps Journey..."
-
-skills=(
-    "Linux"
-    "Networking"
-    "Git & GitHub"
-    "AWS"
-    "Docker"
-    "CI/CD"
-    "Jenkins"
-    "Kubernetes"
-    "Terraform"
-    "Prometheus"
-    "Grafana"
-)
-
-for skill in "${skills[@]}"
-do
-    echo "⚙️ Learning $skill..."
-done
-
-echo "☁️ Destination: DevOps Engineer"
-```
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║      CODE → BUILD → TEST → DEPLOY → MONITOR          ║
-║                       ↖                              ║
-║                       REPEAT                         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-### ☁️ Cloud is the platform.
-
-### ⚙️ Automation is the mindset.
-
-### 🚀 DevOps is the journey.
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge)
-
-**⭐ Thanks for visiting my DevOps Control Center**
-
-</div>
+<p align="center"><i>⭐️ From Om Kute — always building, always automating.</i></p>
