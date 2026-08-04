@@ -1,31 +1,341 @@
-# 💫 About Me:
-Computer Science student with basic programming knowledge and hands-on experience in CI/CD, AWS, Docker, Kubernetes, Terraform, and Shell Scripting. Quick learner eager to contribute to DevOps and cloud-based projects.
+# 👋 Hey, I'm Om
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Om kute) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om-kute-05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Om kute) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Om kute) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@omkute3639) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Om Kute) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkute40@gmail.com) 
+### ☁️ DevOps & Cloud Enthusiast | 🐧 Linux | ⚙️ Automation
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Om-kute&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Om-kute&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Om-kute&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> **Automate. Deploy. Monitor. Improve. Repeat. 🔁**
+
+Passionate about **DevOps, Cloud Computing, Linux, Automation, CI/CD, and Infrastructure**.
+I enjoy learning how modern applications move from **code → build → deploy → production**.
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Om-kute&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**Om-Kute/Om-kute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+```yaml
+name: Om
+focus: DevOps & Cloud
+currently_learning:
+  - AWS
+  - Docker
+  - CI/CD
+  - Infrastructure Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact : ...
--->
+interests:
+  - Cloud Computing
+  - Linux
+  - DevOps
+  - Automation
+  - Networking
+
+goal: "Build, automate and manage reliable cloud infrastructure"
+```
+
+---
+
+## 🛠️ DevOps & Cloud Tech Stack
+
+### ☁️ Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🐧 Linux & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+### 🔧 Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### 📦 Containers & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins" />
+</p>
+
+### 🌐 Web & Servers
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx,html,css,js" />
+</p>
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
+
+---
+
+## 🔥 What I'm Learning
+
+```text
+Linux Administration       █████████████████░░░
+Git & GitHub               ██████████████████░░
+AWS                        ███████████████░░░░░
+Docker                     ████████████░░░░░░░░
+CI/CD                      ██████████░░░░░░░░░░
+Jenkins                    ████████░░░░░░░░░░░░
+Kubernetes                 █████░░░░░░░░░░░░░░░
+Terraform                  ████░░░░░░░░░░░░░░░░
+```
+
+---
+
+# 🧰 DevOps Toolbox
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                    DEVOPS TOOLBOX                    │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ☁️ Cloud          AWS                               │
+│  🐧 OS             Linux / Ubuntu                    │
+│  🔧 Version        Git / GitHub                      │
+│  📦 Containers     Docker                            │
+│  ⚙️ CI/CD          Jenkins / GitHub Actions          │
+│  🌐 Web Server     Nginx                             │
+│  📜 Scripting      Bash / Python                     │
+│  📊 Monitoring     Prometheus / Grafana              │
+│  ☸️ Orchestration  Kubernetes                        │
+│  🏗️ IaC            Terraform                         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ AWS Static Website Deployment
+
+**Tech:** AWS EC2 • Linux • Nginx • Git • GitHub
+
+```text
+Developer
+    │
+    ▼
+ GitHub
+    │
+    ▼
+ AWS EC2
+    │
+    ▼
+  Nginx
+    │
+    ▼
+ Website 🌐
+```
+
+🔗 **Repository:** [View Project](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🐳 Dockerized Web Application
+
+**Tech:** Docker • Linux • Nginx • GitHub
+
+```text
+Source Code
+     │
+     ▼
+ Dockerfile
+     │
+     ▼
+ Docker Image
+     │
+     ▼
+ Container
+     │
+     ▼
+ Application 🚀
+```
+
+🔗 **Repository:** [View Project](https://github.com/YOUR_USERNAME)
+
+---
+
+## ⚙️ CI/CD Pipeline
+
+**Tech:** GitHub • Jenkins • Docker • AWS
+
+```text
+Developer Push
+      │
+      ▼
+    GitHub
+      │
+      ▼
+   Jenkins
+      │
+      ▼
+    Build
+      │
+      ▼
+    Test
+      │
+      ▼
+   Docker
+      │
+      ▼
+    Deploy 🚀
+```
+
+🔗 **Repository:** [View Project](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🌦️ Weather Prediction Application
+
+**Tech:** Python • Machine Learning • Tkinter
+
+A desktop weather forecasting application that uses machine learning to generate weather predictions with an interactive graphical interface.
+
+🔗 **Repository:** [View Project](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🅿️ Smart Car Parking System
+
+**Tech:** Software Development • Automation
+
+A smart parking solution designed to improve parking-space management and provide an efficient parking workflow.
+
+🔗 **Repository:** [View Project](https://github.com/YOUR_USERNAME)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🎯 DevOps Roadmap
+
+```text
+Linux
+  │
+  ▼
+Networking
+  │
+  ▼
+Git & GitHub
+  │
+  ▼
+AWS ☁️
+  │
+  ▼
+Docker 🐳
+  │
+  ▼
+CI/CD ⚙️
+  │
+  ▼
+Jenkins
+  │
+  ▼
+Kubernetes ☸️
+  │
+  ▼
+Terraform 🏗️
+  │
+  ▼
+Monitoring 📊
+  │
+  ▼
+DevOps Engineer 🚀
+```
+
+---
+
+# 💡 DevOps Philosophy
+
+> **"If you do it twice, automate it."**
+
+```bash
+#!/bin/bash
+
+while true
+do
+    learn
+    build
+    automate
+    deploy
+    monitor
+    improve
+done
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Building today. Automating tomorrow. Deploying everywhere. ☁️
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge)
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
