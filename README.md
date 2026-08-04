@@ -1,167 +1,164 @@
-<!-- ========================= DEVOPS TOOLBOX ========================= -->
-
-## 🧰 DevOps Toolbox
-
+<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins,githubactions,nginx,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark&perline=8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Om%20Kute&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Linux%20Systems&descAlignY=52&descSize=17" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Linux+%7C+Networking+%7C+Git+%26+GitHub;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+with+Jenkins+%7C+Monitoring+with+Prometheus+%26+Grafana;Building+Systems+That+Don't+Wake+Me+Up+at+3AM" alt="Typing SVG" />
 
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⚡-DEVOPS%20TOOLCHAIN-0D1117?style=for-the-badge"/>
-
-</div>
-
----
-
-<!-- ========================= DEVOPS STACK ========================= -->
-
-## ⚡ Cloud & DevOps Stack
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=☁️+AWS+%7C+EC2+%7C+S3+%7C+IAM+%7C+VPC;🐧+Linux+%7C+Ubuntu+%7C+Bash+Scripting;🐳+Docker+%7C+Containers+%7C+Images+%7C+Volumes;⚙️+Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD;☸️+Kubernetes+%7C+Container+Orchestration;🏗️+Terraform+%7C+Ansible+%7C+Infrastructure+as+Code;📊+Prometheus+%7C+Grafana+%7C+Monitoring;🌐+Nginx+%7C+Reverse+Proxy+%7C+Web+Server" alt="DevOps Stack"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text id="hw8l6e"
-CODE  ──►  BUILD  ──►  TEST  ──►  CONTAINERIZE  ──►  DEPLOY  ──►  MONITOR
- │                                                                     │
- └────────────────────────────── IMPROVE ◄─────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- ========================= ACHIEVEMENTS ========================= -->
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-
-</div>
-
-<br>
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/Om-Kute?tab=followers">
-<img src="https://img.shields.io/github/followers/Om-Kute?style=for-the-badge&logo=github&label=Followers"/>
+  <img src="https://img.shields.io/github/followers/Om-Kute?style=for-the-badge&label=Followers&color=58A6FF&logo=github" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Om-Kute&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=Om-Kute&label=Profile%20Views&color=0969DA&style=for-the-badge"/>
+<br/><br/>
 
-<img src="https://img.shields.io/github/stars/Om-Kute?style=for-the-badge&logo=github&label=Total%20Stars"/>
+<a href="https://www.linkedin.com/in/om-kute-19b119270/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:omkute40@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Om-Kute">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
-<!-- ========================= CONTRIBUTIONS ========================= -->
+## 👨‍💻 About Me
 
-## 📈 Contribution Activity
+- 🔭 Focused on building **reliable, automated, and scalable infrastructure**
+- ☁️ Working across **AWS**, **Docker**, and **Kubernetes** for cloud-native deployments
+- ⚙️ Building CI/CD pipelines with **Jenkins** and Infrastructure as Code with **Terraform**
+- 📈 Setting up observability with **Prometheus** & **Grafana**
+- 🌱 Currently deepening my knowledge of **Kubernetes** and advanced **cloud architecture**
+- 🤝 Open to collaborating on DevOps, Cloud, and Automation projects
+- 📫 Reach me at **omkute40@gmail.com**
+
+<br/>
+
+## 🧰 Tech Arsenal
+
+<table width="100%">
+<tr>
+<th align="center">Category</th>
+<th align="center">Stack</th>
+</tr>
+<tr>
+<td align="center"><b>Operating Systems</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Cloud</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Containers & Orchestration</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>CI/CD & IaC</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Monitoring</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Version Control</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Scripting</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Web Servers</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Om%20Kute's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Om-Kute&theme=dracula&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=dracula&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&theme=dracula&hide_border=true&area=true" width="98%"/>
 
 </div>
 
----
+<br/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake.svg">
-
-</picture>
-
+<img src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+> **Note:** the snake animation needs a one-time GitHub Actions setup in your `Om-Kute/Om-Kute` repo — I've included the workflow file below so it generates automatically.
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+<br/>
 
-## 🎯 Current Focus
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=dracula&no-frame=true&row=1&column=7" />
+</div>
+
+<br/>
+
+## 🤝 Let's Build Something Reliable Together
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=☁️+Exploring+AWS+Cloud+Infrastructure;🐧+Strengthening+Linux+Administration;🐳+Building+with+Docker+Containers;⚙️+Creating+CI%2FCD+Pipelines;🔧+Automating+with+Jenkins;☸️+Moving+towards+Kubernetes;🏗️+Learning+Infrastructure+as+Code;📊+Exploring+Monitoring+%26+Observability" alt="Current Focus"/>
+Always up for a conversation about DevOps practices, cloud architecture, or automation ideas.
+
+<a href="https://www.linkedin.com/in/om-kute-19b119270/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:omkute40@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
+<blockquote align="center">
+<i>"I don't just deploy applications — I build systems that keep running while I sleep."</i>
+</blockquote>
 
-<img src="https://img.shields.io/badge/CURRENTLY-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/CURRENTLY-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CURRENTLY-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/NEXT-KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/NEXT-TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/NEXT-GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text id="zkh79s"
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   LINUX  →  AWS  →  DOCKER  →  CI/CD  →  JENKINS           │
-│                                      │                       │
-│                                      ▼                       │
-│                               KUBERNETES                     │
-│                                 ↙      ↘                     │
-│                         TERRAFORM     MONITORING              │
-│                                        │                     │
-│                              PROMETHEUS + GRAFANA             │
-│                                                              │
-│                         🚀 DEVOPS                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- ========================= ENGINEERING PHILOSOPHY ========================= -->
-
-## 🧠 Engineering Philosophy
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=850&lines=Infrastructure+should+be+reproducible.;Deployments+should+be+automated.;Systems+should+be+observable.;Failures+should+be+recoverable.;Automation+should+eliminate+repetition." alt="Engineering Philosophy"/>
-
-<br>
-
-### `Build → Automate → Deploy → Monitor → Improve`
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
