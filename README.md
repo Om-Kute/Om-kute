@@ -1,294 +1,86 @@
-<!-- ========================= PROFILE HEADER ========================= -->
+<!-- ========================= DEVOPS TOOLBOX ========================= -->
+
+## 🧰 DevOps Toolbox
 
 <div align="center">
 
-# 👋 Hi, I'm Om Kute
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins,githubactions,nginx,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark&perline=8" />
 
-### DevOps • Cloud • Linux • Automation
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Reliable+Cloud+Infrastructure;Automating+Deployments+with+CI%2FCD;Linux+%7C+AWS+%7C+Docker+%7C+Jenkins;Learning+Kubernetes+%26+Infrastructure+as+Code;From+Code+Commit+to+Cloud+Deployment" alt="Typing SVG" />
+</div>
 
 <br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⚡-DEVOPS%20TOOLCHAIN-0D1117?style=for-the-badge"/>
+
+</div>
+
+---
+
+<!-- ========================= DEVOPS STACK ========================= -->
+
+## ⚡ Cloud & DevOps Stack
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=☁️+AWS+%7C+EC2+%7C+S3+%7C+IAM+%7C+VPC;🐧+Linux+%7C+Ubuntu+%7C+Bash+Scripting;🐳+Docker+%7C+Containers+%7C+Images+%7C+Volumes;⚙️+Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD;☸️+Kubernetes+%7C+Container+Orchestration;🏗️+Terraform+%7C+Ansible+%7C+Infrastructure+as+Code;📊+Prometheus+%7C+Grafana+%7C+Monitoring;🌐+Nginx+%7C+Reverse+Proxy+%7C+Web+Server" alt="DevOps Stack"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text id="hw8l6e"
+CODE  ──►  BUILD  ──►  TEST  ──►  CONTAINERIZE  ──►  DEPLOY  ──►  MONITOR
+ │                                                                     │
+ └────────────────────────────── IMPROVE ◄─────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 <a href="https://github.com/Om-Kute?tab=followers">
 <img src="https://img.shields.io/github/followers/Om-Kute?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Om-Kute&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Om-Kute&label=Profile%20Views&color=0969DA&style=for-the-badge"/>
 
-<a href="https://www.linkedin.com/in/om-kute-19b119270/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-> **Automate Once • Deploy Confidently • Scale Reliably**
+<img src="https://img.shields.io/github/stars/Om-Kute?style=for-the-badge&logo=github&label=Total%20Stars"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<!-- ========================= CONTRIBUTIONS ========================= -->
 
-```yaml id="3yg68c"
-name: Om Kute
-role: DevOps & Cloud Enthusiast
-
-focus:
-  - Linux Administration
-  - AWS Cloud Infrastructure
-  - CI/CD Automation
-  - Containerization
-  - Infrastructure as Code
-  - Monitoring & Observability
-
-currently_learning:
-  - Docker
-  - Jenkins
-  - Kubernetes
-  - Terraform
-
-next:
-  - Prometheus
-  - Grafana
-  - Advanced AWS
-
-philosophy: "Build it. Automate it. Monitor it. Improve it."
-```
-
-I enjoy understanding what happens **behind the application** — from Linux servers and networking to deployment pipelines and cloud infrastructure.
-
-My goal is to build systems that are **repeatable, automated, observable and reliable**.
-
----
-
-# ⚙️ DevOps Workflow
+## 📈 Contribution Activity
 
 <div align="center">
 
-```text id="g5syrm"
-┌──────────┐     ┌──────────┐     ┌──────────┐
-│   CODE   │ ──► │   GIT    │ ──► │  GITHUB  │
-└──────────┘     └──────────┘     └────┬─────┘
-                                       │
-                                       ▼
-                                ┌──────────────┐
-                                │    CI/CD     │
-                                └──────┬───────┘
-                                       │
-                                       ▼
-                                ┌──────────────┐
-                                │    DOCKER    │
-                                └──────┬───────┘
-                                       │
-                                       ▼
-                                ┌──────────────┐
-                                │  AWS CLOUD   │
-                                └──────┬───────┘
-                                       │
-                                       ▼
-                                ┌──────────────┐
-                                │ PRODUCTION 🚀│
-                                └──────┬───────┘
-                                       │
-                                       ▼
-                                ┌──────────────┐
-                                │  MONITORING  │
-                                └──────────────┘
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Om%20Kute's%20Contribution%20Graph" width="100%" />
 
 </div>
 
 ---
 
-# 🧰 DevOps Toolbox
-
-<div align="center">
-
-### 🐧 Linux & Scripting
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python&theme=dark"/>
-
-<br><br>
-
-### ☁️ Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible&theme=dark"/>
-
-<br><br>
-
-### 🐳 Containers & Orchestration
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark"/>
-
-<br><br>
-
-### ⚙️ CI/CD & Version Control
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins&theme=dark"/>
-
-<br><br>
-
-### 🌐 Web & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark"/>
-
-<br><br>
-
-### 📊 Monitoring & Observability
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark"/>
-
-</div>
-
----
-
-# ☁️ Cloud & DevOps Stack
-
-<div align="center">
-
-| Domain                | Technologies               |
-| :-------------------- | :------------------------- |
-| **Operating Systems** | Linux • Ubuntu             |
-| **Cloud**             | AWS • EC2 • S3 • IAM • VPC |
-| **Version Control**   | Git • GitHub               |
-| **Containers**        | Docker                     |
-| **CI/CD**             | GitHub Actions • Jenkins   |
-| **Web Server**        | Nginx                      |
-| **Scripting**         | Bash • Python              |
-| **IaC**               | Terraform • Ansible        |
-| **Orchestration**     | Kubernetes                 |
-| **Monitoring**        | Prometheus • Grafana       |
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ AWS Web Deployment
-
-Deployed a web application on an AWS EC2 Linux server and configured Nginx for serving application traffic.
-
-**Tech Stack**
-
-`AWS` `EC2` `Linux` `Nginx` `Git`
-
-<br>
-
-<a href="https://github.com/Om-Kute">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0969DA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐳 Dockerized Application
-
-Containerized a web application to create an isolated and reproducible deployment environment.
-
-**Tech Stack**
-
-`Docker` `Linux` `Nginx` `Git`
-
-<br>
-
-<a href="https://github.com/Om-Kute">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ CI/CD Pipeline
-
-Built an automated workflow for integrating application changes and simplifying deployments.
-
-**Tech Stack**
-
-`GitHub` `CI/CD` `Jenkins` `Docker`
-
-<br>
-
-<a href="https://github.com/Om-Kute">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🅿️ Smart Car Parking
-
-Developed a smart parking solution focused on improving parking management and system efficiency.
-
-**Tech Stack**
-
-`Development` `Automation` `Database`
-
-<br>
-
-<a href="https://github.com/Om-Kute">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7"/>
-
-</div>
-
----
-
-# 🐍 Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -309,97 +101,67 @@ src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contributio
 
 ---
 
-# 🎯 Current Focus
+<!-- ========================= CURRENT FOCUS ========================= -->
 
-```text id="nn7drq"
-AWS Cloud               ████████████████░░░░
-Linux Administration    ███████████████████░
-Git & GitHub            ███████████████████░
-Docker                  ███████████████░░░░░
-CI/CD                   █████████████░░░░░░░
-Jenkins                 ███████████░░░░░░░░░
-Kubernetes              ███████░░░░░░░░░░░░░
-Terraform               █████░░░░░░░░░░░░░░░
-```
-
-### `$ current_status`
-
-```bash id="f6chm1"
-$ whoami
-Om Kute
-
-$ cat /etc/role
-DevOps & Cloud Enthusiast
-
-$ echo $CURRENT_FOCUS
-AWS | Linux | Docker | CI/CD
-
-$ echo $NEXT_TARGET
-Jenkins → Kubernetes → Terraform → Monitoring
-
-$ ./deploy.sh
-Building...
-Testing...
-Deploying...
-Monitoring...
-
-✓ Deployment successful 🚀
-```
-
----
-
-# 🧠 Engineering Philosophy
+## 🎯 Current Focus
 
 <div align="center">
 
-### `Infrastructure should be reproducible.`
-
-### `Deployments should be automated.`
-
-### `Systems should be observable.`
-
-### `Failures should be recoverable.`
-
-<br>
-
-> **"The goal isn't just to make it work — the goal is to make it reliable."**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in **DevOps, Cloud Infrastructure, Linux, Automation and Open Source**.
-
-<br><br>
-
-<a href="mailto:omkute40@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/om-kute-19b119270/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Om-Kute">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=☁️+Exploring+AWS+Cloud+Infrastructure;🐧+Strengthening+Linux+Administration;🐳+Building+with+Docker+Containers;⚙️+Creating+CI%2FCD+Pipelines;🔧+Automating+with+Jenkins;☸️+Moving+towards+Kubernetes;🏗️+Learning+Infrastructure+as+Code;📊+Exploring+Monitoring+%26+Observability" alt="Current Focus"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
+
+<img src="https://img.shields.io/badge/CURRENTLY-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/CURRENTLY-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CURRENTLY-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NEXT-KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/NEXT-TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/NEXT-GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:00C6FF&height=120&section=footer" width="100%"/>
+```text id="zkh79s"
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   LINUX  →  AWS  →  DOCKER  →  CI/CD  →  JENKINS           │
+│                                      │                       │
+│                                      ▼                       │
+│                               KUBERNETES                     │
+│                                 ↙      ↘                     │
+│                         TERRAFORM     MONITORING              │
+│                                        │                     │
+│                              PROMETHEUS + GRAFANA             │
+│                                                              │
+│                         🚀 DEVOPS                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-### ⚡ `Code → Build → Test → Deploy → Monitor → Improve`
+</div>
 
-**Building my path from Linux to Cloud, one deployment at a time. ☁️**
+---
+
+<!-- ========================= ENGINEERING PHILOSOPHY ========================= -->
+
+## 🧠 Engineering Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=850&lines=Infrastructure+should+be+reproducible.;Deployments+should+be+automated.;Systems+should+be+observable.;Failures+should+be+recoverable.;Automation+should+eliminate+repetition." alt="Engineering Philosophy"/>
+
+<br>
+
+### `Build → Automate → Deploy → Monitor → Improve`
 
 </div>
