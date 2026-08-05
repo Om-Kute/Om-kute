@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:0F172A,100:0369A1&text=OM%20KUTE&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20LINUX%20%E2%80%A2%20AUTOMATION&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Infrastructure+That+Scales;Automating+Everything+That+Repeats;From+Linux+Servers+to+Cloud+Deployments;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Infrastructure+That+Scales;Automating+Everything+That+Repeats;From+Linux+Servers+to+Cloud+Deployments;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving"/>
 
 <br>
 
@@ -28,6 +28,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Om-Kute&label=PROFILE+VIEWS&color=0284C7&style=flat-square"/>
 
+<img src="https://img.shields.io/github/followers/Om-Kute?style=flat-square&logo=github&label=FOLLOWERS&color=0284C7"/>
+
 </div>
 
 <br>
@@ -36,7 +38,7 @@
 
 ## `> whoami`
 
-```yaml id="a82s1p"
+```yaml id="q2b9nz"
 name: Om Kute
 
 domain:
@@ -71,84 +73,25 @@ next:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=githubactions,nginx,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=githubactions,nginx,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark"/>
 
 </div>
 
 <br>
 
 <p align="center">
+
 <code>LINUX</code>
-&nbsp;•&nbsp;
-<code>CLOUD</code>
-&nbsp;•&nbsp;
-<code>CONTAINERS</code>
-&nbsp;•&nbsp;
-<code>AUTOMATION</code>
-&nbsp;•&nbsp;
-<code>OBSERVABILITY</code>
+ •  <code>CLOUD</code>
+ •  <code>CONTAINERS</code>
+ •  <code>AUTOMATION</code>
+ •  <code>OBSERVABILITY</code>
+
 </p>
-
----
-
-# 🚀 FROM COMMIT TO CLOUD
-
-```text id="47v5z3"
-
-       ┌──────────────┐
-       │  SOURCE CODE │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │     GIT      │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │    GITHUB    │
-       └──────┬───────┘
-              │
-              ▼
-      ┌───────────────┐
-      │     CI/CD     │
-      └───────┬───────┘
-              │
-         BUILD • TEST
-              │
-              ▼
-       ┌──────────────┐
-       │    DOCKER    │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │  AWS CLOUD   │
-       └──────┬───────┘
-              │
-              ▼
-      ┌───────────────┐
-      │  PRODUCTION   │
-      └───────┬───────┘
-              │
-              ▼
-      ┌───────────────┐
-      │    MONITOR    │
-      └───────┬───────┘
-              │
-              └──────────────► IMPROVE ↻
-
-```
-
-<div align="center">
-
-### `CODE → BUILD → TEST → SHIP → OBSERVE → IMPROVE`
-
-</div>
 
 ---
 
@@ -250,68 +193,6 @@ Working with Linux administration, networking, services and automation.
 
 ---
 
-# 🎯 CURRENT MISSION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1700&pause=600&color=38BDF8&center=true&vCenter=true&width=950&height=100&lines=%5B01%5D+Mastering+Linux+for+DevOps;%5B02%5D+Building+Infrastructure+on+AWS;%5B03%5D+Containerizing+Applications+with+Docker;%5B04%5D+Automating+Builds+%26+Deployments;%5B05%5D+Moving+into+Kubernetes;%5B06%5D+Infrastructure+as+Code+with+Terraform;%5B07%5D+Observability+with+Prometheus+%26+Grafana"/>
-
-</div>
-
-<br>
-
-```text id="2w7myg"
-
-                  ┌───────────────┐
-                  │     LINUX     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │      AWS      │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    DOCKER     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     CI/CD     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    JENKINS    │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │  KUBERNETES   │
-                  └───────┬───────┘
-                          │
-                    ┌─────┴─────┐
-                    ▼           ▼
-               TERRAFORM    OBSERVABILITY
-                                │
-                         ┌──────┴──────┐
-                         ▼             ▼
-                    PROMETHEUS      GRAFANA
-
-```
-
----
-
-# 📡 GITHUB SIGNAL
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=020617&color=38BDF8&line=0EA5E9&point=F8FAFC&area=true&area_color=075985&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
-
-</div>
-
----
 
 # 🏆 ACHIEVEMENT BOARD
 
@@ -319,38 +200,42 @@ Working with Linux administration, networking, services and automation.
 
 <img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/>
 
-</div>
-
-<br>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/github/followers/Om-Kute?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS"/>
 
 <img src="https://komarev.com/ghpvc/?username=Om-Kute&label=PROFILE+VIEWS&color=0284C7&style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake.svg"
-    />
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2100&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Tracking+the+commit+trail...;%F0%9F%90%8D+Eating+contributions...;Keep+the+graph+moving."/>
+
+<br><br>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg">
+
+<img
+alt="Om Kute GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg"
+width="100%">
+
+</picture>
+
+</div>
 
 ---
 
@@ -358,48 +243,41 @@ Working with Linux administration, networking, services and automation.
 
 <div align="center">
 
-<table>
-
-<tr>
-<td align="center">
-
-### AUTOMATE
-
-Remove repetitive work.
-
-</td>
-
-<td align="center">
-
-### STANDARDIZE
-
-Make environments reproducible.
-
-</td>
-
-<td align="center">
-
-### OBSERVE
-
-Measure what matters.
-
-</td>
-
-<td align="center">
-
-### IMPROVE
-
-Learn from every failure.
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=650&color=38BDF8&center=true&vCenter=true&width=950&lines=AUTOMATE+WHAT+REPEATS.;STANDARDIZE+WHAT+YOU+BUILD.;OBSERVE+WHAT+MATTERS.;DEBUG+WHAT+BREAKS.;IMPROVE+WHAT+WORKS."/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=850&lines=Infrastructure+should+be+reproducible.;Deployments+should+be+predictable.;Systems+should+be+observable.;Automation+should+remove+repetition." />
+<img src="https://skillicons.dev/icons?i=linux,git,docker,aws,githubactions,kubernetes,terraform,prometheus,grafana&theme=dark"/>
+
+<br><br>
+
+### ⚙️ AUTOMATE
+
+Remove repetitive manual operations.
+
+### 🏗️ STANDARDIZE
+
+Make infrastructure reproducible.
+
+### 📡 OBSERVE
+
+Understand what systems are doing.
+
+### 🔧 DEBUG
+
+Find the cause instead of hiding the symptom.
+
+### 🚀 IMPROVE
+
+Make every deployment better than the previous one.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=850&color=94A3B8&center=true&vCenter=true&width=950&lines=Reliable+beats+clever.;Repeatable+beats+manual.;Observable+beats+invisible.;Automation+removes+repetition."/>
+
+<br>
+
+### `UNDERSTAND → AUTOMATE → OPERATE → IMPROVE`
 
 </div>
 
@@ -409,7 +287,7 @@ Learn from every failure.
 
 <div align="center">
 
-### Cloud • DevOps • Linux • Automation
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=7DD3FC&center=true&vCenter=true&width=850&lines=Cloud+%E2%80%A2+DevOps+%E2%80%A2+Linux+%E2%80%A2+Automation;Always+Learning.+Always+Building.;Let's+Connect."/>
 
 <br>
 
@@ -427,7 +305,7 @@ Learn from every failure.
 
 <br><br>
 
-```text id="0cn59c"
+```text id="4x8p1j"
 $ git add .
 $ git commit -m "keep learning"
 $ git push origin future
