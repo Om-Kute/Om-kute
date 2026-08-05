@@ -104,13 +104,11 @@ next:
 </div>
 
 ---
-## ⚡ Commit Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://img.shields.io/github/commit-activity/m/Om-Kute/Om-Kute?style=for-the-badge&label=COMMITS%20THIS%20MONTH&logo=github"/>
-
-<img src="https://img.shields.io/github/last-commit/Om-Kute/Om-Kute?style=for-the-badge&label=LAST%20COMMIT&logo=git"/>
+<img src="https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8"/>
 
 </div>
 
