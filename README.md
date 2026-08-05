@@ -38,7 +38,7 @@
 
 ## `> whoami`
 
-```yaml id="4h7m2q"
+```yaml id="q2b9nz"
 name: Om Kute
 
 domain:
@@ -84,15 +84,13 @@ next:
 <br>
 
 <p align="center">
+
 <code>LINUX</code>
-&nbsp;•&nbsp;
-<code>CLOUD</code>
-&nbsp;•&nbsp;
-<code>CONTAINERS</code>
-&nbsp;•&nbsp;
-<code>AUTOMATION</code>
-&nbsp;•&nbsp;
-<code>OBSERVABILITY</code>
+ •  <code>CLOUD</code>
+ •  <code>CONTAINERS</code>
+ •  <code>AUTOMATION</code>
+ •  <code>OBSERVABILITY</code>
+
 </p>
 
 ---
@@ -119,7 +117,7 @@ next:
 
 Provisioning Linux servers and deploying applications on AWS infrastructure.
 
-<br>
+<br><br>
 
 <code>AWS</code> <code>EC2</code> <code>Linux</code> <code>Nginx</code>
 
@@ -139,7 +137,7 @@ Provisioning Linux servers and deploying applications on AWS infrastructure.
 
 Building isolated and reproducible application environments using containers.
 
-<br>
+<br><br>
 
 <code>Docker</code> <code>Images</code> <code>Containers</code> <code>Volumes</code>
 
@@ -159,7 +157,7 @@ Building isolated and reproducible application environments using containers.
 
 Exploring automated build, test and deployment workflows.
 
-<br>
+<br><br>
 
 <code>Git</code> <code>GitHub</code> <code>CI/CD</code> <code>Jenkins</code>
 
@@ -179,7 +177,7 @@ Exploring automated build, test and deployment workflows.
 
 Working with Linux administration, networking, services and automation.
 
-<br>
+<br><br>
 
 <code>Linux</code> <code>Bash</code> <code>SSH</code> <code>Nginx</code>
 
@@ -188,48 +186,6 @@ Working with Linux administration, networking, services and automation.
 <a href="https://github.com/Om-Kute?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_LINUX_PROJECTS-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
-
-</div>
-
----
-
-# 📊 CONTRIBUTION STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" width="70%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Kute&theme=github_dark" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Kute&theme=github_dark" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Kute&theme=github_dark&utcOffset=5.5" height="180"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Kute&theme=github_dark" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Kute&theme=github_dark" height="180"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=020617&color=38BDF8&line=0EA5E9&point=F8FAFC&area=true&area_color=075985&hide_border=true&custom_title=Om%20Kute%20%7C%20Contribution%20Activity" width="98%"/>
 
 </div>
 
@@ -346,7 +302,7 @@ Make every deployment better than the previous one.
 
 <br><br>
 
-```text id="m4vk8x"
+```text id="4x8p1j"
 $ git add .
 $ git commit -m "keep learning"
 $ git push origin future
