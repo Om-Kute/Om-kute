@@ -104,10 +104,13 @@ next:
 </div>
 
 ---
-## 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true)
-
+- 🔥 **Total Commits:** 500+
+- 🔀 **Pull Requests:** 50+
+- 🐛 **Issues:** 20+
+- ⭐ **Repositories:** 30+
+- 🚀 **Contributed To:** Multiple Open Source Projects
 # 🧪 DEVOPS LABS
 
 <table>
