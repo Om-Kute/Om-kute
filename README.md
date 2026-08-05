@@ -106,11 +106,7 @@ next:
 ---
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8"/>
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true)
 
 # 🧪 DEVOPS LABS
 
