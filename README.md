@@ -104,15 +104,13 @@ next:
 </div>
 
 ---
-## 📊 Commit Stats
+## ⚡ Commit Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Kute&theme=github_dark" />
+<img src="https://img.shields.io/github/commit-activity/m/Om-Kute/Om-Kute?style=for-the-badge&label=COMMITS%20THIS%20MONTH&logo=github"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Kute&theme=github_dark&utcOffset=5.5" />
+<img src="https://img.shields.io/github/last-commit/Om-Kute/Om-Kute?style=for-the-badge&label=LAST%20COMMIT&logo=git"/>
 
 </div>
 
