@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:0F172A,100:0369A1&text=OM%20KUTE&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20LINUX%20%E2%80%A2%20AUTOMATION&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Infrastructure+That+Scales;Automating+Everything+That+Repeats;From+Linux+Servers+to+Cloud+Deployments;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving"/>
 
@@ -104,7 +103,9 @@ next:
 </div>
 
 ---
+#Github stat 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=tokyonight&hide_border=true" width="30%"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Kute&theme=tokyonight&hide_border=true" width="70%"/> </div> <br>
+
 # 🧪 DEVOPS LABS
 
 <table>
