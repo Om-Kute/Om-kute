@@ -104,13 +104,7 @@ next:
 </div>
 
 ---
-## 📊 GitHub Statistics
-
-- 🔥 **Total Commits:** 500+
-- 🔀 **Pull Requests:** 50+
-- 🐛 **Issues:** 20+
-- ⭐ **Repositories:** 30+
-- 🚀 **Contributed To:** Multiple Open Source Projects
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=tokyonight&hide_border=true" width="30%"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-Kute&theme=tokyonight&hide_border=true" width="70%"/> </div> <br>
 # 🧪 DEVOPS LABS
 
 <table>
