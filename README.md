@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:0F172A,100:0369A1&text=OM%20KUTE&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20LINUX%20%E2%80%A2%20AUTOMATION&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Infrastructure+That+Scales;Automating+Everything+That+Repeats;From+Linux+Servers+to+Cloud+Deployments;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Infrastructure+That+Scales;Automating+Everything+That+Repeats;From+Linux+Servers+to+Cloud+Deployments;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving"/>
 
 <br>
 
@@ -28,6 +28,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Om-Kute&label=PROFILE+VIEWS&color=0284C7&style=flat-square"/>
 
+<img src="https://img.shields.io/github/followers/Om-Kute?style=flat-square&logo=github&label=FOLLOWERS&color=0284C7"/>
+
 </div>
 
 <br>
@@ -36,7 +38,7 @@
 
 ## `> whoami`
 
-```yaml id="a82s1p"
+```yaml id="4h7m2q"
 name: Om Kute
 
 domain:
@@ -71,11 +73,11 @@ next:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,jenkins&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=githubactions,nginx,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=githubactions,nginx,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark"/>
 
 </div>
 
@@ -95,63 +97,6 @@ next:
 
 ---
 
-# 🚀 FROM COMMIT TO CLOUD
-
-```text id="47v5z3"
-
-       ┌──────────────┐
-       │  SOURCE CODE │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │     GIT      │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │    GITHUB    │
-       └──────┬───────┘
-              │
-              ▼
-      ┌───────────────┐
-      │     CI/CD     │
-      └───────┬───────┘
-              │
-         BUILD • TEST
-              │
-              ▼
-       ┌──────────────┐
-       │    DOCKER    │
-       └──────┬───────┘
-              │
-              ▼
-       ┌──────────────┐
-       │  AWS CLOUD   │
-       └──────┬───────┘
-              │
-              ▼
-      ┌───────────────┐
-      │  PRODUCTION   │
-      └───────┬───────┘
-              │
-              ▼
-      ┌───────────────┐
-      │    MONITOR    │
-      └───────┬───────┘
-              │
-              └──────────────► IMPROVE ↻
-
-```
-
-<div align="center">
-
-### `CODE → BUILD → TEST → SHIP → OBSERVE → IMPROVE`
-
-</div>
-
----
-
 # ☁️ INFRASTRUCTURE LAB
 
 <div align="center">
@@ -164,13 +109,13 @@ next:
 
 # 🧪 DEVOPS LABS
 
-<table>
+<div align="center">
 
-<tr>
+### ☁️ CLOUD DEPLOYMENT
 
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=aws,linux,nginx&theme=dark"/>
 
-<h3>☁️ Cloud Deployment</h3>
+<br>
 
 Provisioning Linux servers and deploying applications on AWS infrastructure.
 
@@ -181,54 +126,56 @@ Provisioning Linux servers and deploying applications on AWS infrastructure.
 <br><br>
 
 <a href="https://github.com/Om-Kute?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repository-0284C7?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE_CLOUD_PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+<br><br><br>
 
-<td width="50%" valign="top">
+### 🐳 CONTAINER LAB
 
-<h3>🐳 Container Lab</h3>
+<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark"/>
+
+<br>
 
 Building isolated and reproducible application environments using containers.
 
 <br>
 
-<code>Docker</code> <code>Linux</code> <code>Nginx</code>
+<code>Docker</code> <code>Images</code> <code>Containers</code> <code>Volumes</code>
 
 <br><br>
 
 <a href="https://github.com/Om-Kute?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repository-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_CONTAINER_PROJECTS-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 
-</td>
+<br><br><br>
 
-</tr>
+### ⚙️ PIPELINE AUTOMATION
 
-<tr>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins&theme=dark"/>
 
-<td width="50%" valign="top">
-
-<h3>⚙️ Pipeline Automation</h3>
+<br>
 
 Exploring automated build, test and deployment workflows.
 
 <br>
 
-<code>GitHub</code> <code>CI/CD</code> <code>Jenkins</code>
+<code>Git</code> <code>GitHub</code> <code>CI/CD</code> <code>Jenkins</code>
 
 <br><br>
 
 <a href="https://github.com/Om-Kute?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repository-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_AUTOMATION-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </a>
 
-</td>
+<br><br><br>
 
-<td width="50%" valign="top">
+### 🐧 LINUX LAB
 
-<h3>🐧 Linux Lab</h3>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx&theme=dark"/>
+
+<br>
 
 Working with Linux administration, networking, services and automation.
 
@@ -239,75 +186,50 @@ Working with Linux administration, networking, services and automation.
 <br><br>
 
 <a href="https://github.com/Om-Kute?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repository-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE_LINUX_PROJECTS-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 CURRENT MISSION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1700&pause=600&color=38BDF8&center=true&vCenter=true&width=950&height=100&lines=%5B01%5D+Mastering+Linux+for+DevOps;%5B02%5D+Building+Infrastructure+on+AWS;%5B03%5D+Containerizing+Applications+with+Docker;%5B04%5D+Automating+Builds+%26+Deployments;%5B05%5D+Moving+into+Kubernetes;%5B06%5D+Infrastructure+as+Code+with+Terraform;%5B07%5D+Observability+with+Prometheus+%26+Grafana"/>
 
 </div>
 
-<br>
-
-```text id="2w7myg"
-
-                  ┌───────────────┐
-                  │     LINUX     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │      AWS      │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    DOCKER     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     CI/CD     │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    JENKINS    │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │  KUBERNETES   │
-                  └───────┬───────┘
-                          │
-                    ┌─────┴─────┐
-                    ▼           ▼
-               TERRAFORM    OBSERVABILITY
-                                │
-                         ┌──────┴──────┐
-                         ▼             ▼
-                    PROMETHEUS      GRAFANA
-
-```
-
 ---
 
-# 📡 GITHUB SIGNAL
+# 📊 CONTRIBUTION STATS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=020617&color=38BDF8&line=0EA5E9&point=F8FAFC&area=true&area_color=075985&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" width="70%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Kute&theme=github_dark" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Kute&theme=github_dark" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Kute&theme=github_dark&utcOffset=5.5" height="180"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Om-Kute&theme=github_dark" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Kute&theme=github_dark" height="180"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=020617&color=38BDF8&line=0EA5E9&point=F8FAFC&area=true&area_color=075985&hide_border=true&custom_title=Om%20Kute%20%7C%20Contribution%20Activity" width="98%"/>
 
 </div>
 
@@ -319,38 +241,42 @@ Working with Linux administration, networking, services and automation.
 
 <img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/>
 
-</div>
-
-<br>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/github/followers/Om-Kute?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS"/>
 
 <img src="https://komarev.com/ghpvc/?username=Om-Kute&label=PROFILE+VIEWS&color=0284C7&style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake.svg"
-    />
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2100&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Tracking+the+commit+trail...;%F0%9F%90%8D+Eating+contributions...;Keep+the+graph+moving."/>
+
+<br><br>
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg">
+
+<img
+alt="Om Kute GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg"
+width="100%">
+
+</picture>
+
+</div>
 
 ---
 
@@ -358,48 +284,41 @@ Working with Linux administration, networking, services and automation.
 
 <div align="center">
 
-<table>
-
-<tr>
-<td align="center">
-
-### AUTOMATE
-
-Remove repetitive work.
-
-</td>
-
-<td align="center">
-
-### STANDARDIZE
-
-Make environments reproducible.
-
-</td>
-
-<td align="center">
-
-### OBSERVE
-
-Measure what matters.
-
-</td>
-
-<td align="center">
-
-### IMPROVE
-
-Learn from every failure.
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=1800&pause=650&color=38BDF8&center=true&vCenter=true&width=950&lines=AUTOMATE+WHAT+REPEATS.;STANDARDIZE+WHAT+YOU+BUILD.;OBSERVE+WHAT+MATTERS.;DEBUG+WHAT+BREAKS.;IMPROVE+WHAT+WORKS."/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=850&lines=Infrastructure+should+be+reproducible.;Deployments+should+be+predictable.;Systems+should+be+observable.;Automation+should+remove+repetition." />
+<img src="https://skillicons.dev/icons?i=linux,git,docker,aws,githubactions,kubernetes,terraform,prometheus,grafana&theme=dark"/>
+
+<br><br>
+
+### ⚙️ AUTOMATE
+
+Remove repetitive manual operations.
+
+### 🏗️ STANDARDIZE
+
+Make infrastructure reproducible.
+
+### 📡 OBSERVE
+
+Understand what systems are doing.
+
+### 🔧 DEBUG
+
+Find the cause instead of hiding the symptom.
+
+### 🚀 IMPROVE
+
+Make every deployment better than the previous one.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=850&color=94A3B8&center=true&vCenter=true&width=950&lines=Reliable+beats+clever.;Repeatable+beats+manual.;Observable+beats+invisible.;Automation+removes+repetition."/>
+
+<br>
+
+### `UNDERSTAND → AUTOMATE → OPERATE → IMPROVE`
 
 </div>
 
@@ -409,7 +328,7 @@ Learn from every failure.
 
 <div align="center">
 
-### Cloud • DevOps • Linux • Automation
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=7DD3FC&center=true&vCenter=true&width=850&lines=Cloud+%E2%80%A2+DevOps+%E2%80%A2+Linux+%E2%80%A2+Automation;Always+Learning.+Always+Building.;Let's+Connect."/>
 
 <br>
 
@@ -427,7 +346,7 @@ Learn from every failure.
 
 <br><br>
 
-```text id="0cn59c"
+```text id="m4vk8x"
 $ git add .
 $ git commit -m "keep learning"
 $ git push origin future
