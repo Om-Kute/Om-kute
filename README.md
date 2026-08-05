@@ -1,64 +1,92 @@
-<!-- ===================================================== -->
+<!-- ============================================================ -->
 
-<!--                OM KUTE // DEVOPS                     -->
+<!--                  OM KUTE // DEVOPS                          -->
 
-<!-- ===================================================== -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:020617,45:0F172A,100:075985&text=OM%20KUTE&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=DEVOPS%20ENGINEERING%20%2F%2F%20CLOUD%20%2F%2F%20LINUX&descSize=16&descAlignY=64&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,45:0F172A,100:0369A1&text=OM%20KUTE&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20LINUX%20%E2%80%A2%20AUTOMATION&descSize=17&descAlignY=58&animation=fadeIn"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=%24+initializing+cloud+environment...;%24+configuring+linux+systems...;%24+building+deployment+pipeline...;%24+shipping+containers+to+production...;%24+observing+infrastructure...;%E2%9C%93+system+ready." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Reliable+Cloud+Infrastructure;Automating+Deployments+with+CI%2FCD;Containerizing+Applications+with+Docker;Learning+the+Systems+Behind+the+Software;Build+%E2%80%A2+Automate+%E2%80%A2+Deploy+%E2%80%A2+Observe" />
 
 <br>
 
 <a href="https://github.com/Om-Kute">
-<img src="https://img.shields.io/badge/GitHub-Om--Kute-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Om--Kute-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/om-kute-19b119270/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Om-Kute&label=visitors&color=0284C7&style=flat-square"/>
-
-</div>
-
----
-
-## `01 // OPERATOR`
-
-```console
-om@cloud:~$ whoami
-
-Om Kute
-DevOps • Cloud • Linux
-
-om@cloud:~$ cat mission.txt
-
-→ Understand infrastructure deeply
-→ Automate repetitive operations
-→ Build reliable deployment workflows
-→ Learn by deploying real systems
-
-om@cloud:~$ echo $STATUS
-
-BUILDING...
-```
-
----
-
-## `02 // STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,nginx&theme=dark"/>
+<a href="mailto:omkute40@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=Om-Kute&label=PROFILE+VIEWS&color=0284C7&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/Om-Kute?style=flat-square&logo=github&label=FOLLOWERS"/>
+
+<br><br>
+
+### `Cloud is the platform. Automation is the mindset.`
+
+</div>
+
+---
+
+## `01 // ABOUT`
+
+```yaml id="f3kyh7"
+name: Om Kute
+role: DevOps & Cloud Enthusiast
+
+focus:
+  - Linux Systems
+  - AWS Cloud
+  - DevOps
+  - Containerization
+  - CI/CD
+  - Automation
+
+working_with:
+  - Linux
+  - Git & GitHub
+  - AWS
+  - Docker
+  - Nginx
+
+exploring:
+  - Jenkins
+  - Kubernetes
+  - Terraform
+  - Prometheus
+  - Grafana
+
+goal:
+  "Build reliable infrastructure and automate everything that repeats."
+```
+
+I enjoy understanding what happens **behind an application** — how it runs on Linux, how infrastructure is created, how code reaches production, and how systems are monitored after deployment.
+
+My focus is simple:
+
+**Learn → Build → Deploy → Break → Troubleshoot → Automate → Improve**
+
+---
+
+## `02 // DEVOPS ARSENAL`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,nginx&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark" />
 
 </div>
 
@@ -66,127 +94,153 @@ BUILDING...
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1700&pause=450&color=7DD3FC&center=true&vCenter=true&width=1000&lines=LINUX+%2F%2F+BASH+%2F%2F+GIT+%2F%2F+GITHUB;AWS+%2F%2F+EC2+%2F%2F+IAM+%2F%2F+VPC;DOCKER+%2F%2F+NGINX+%2F%2F+CONTAINERS;JENKINS+%2F%2F+GITHUB+ACTIONS+%2F%2F+CI%2FCD;KUBERNETES+%2F%2F+TERRAFORM+%2F%2F+ANSIBLE;PROMETHEUS+%2F%2F+GRAFANA+%2F%2F+OBSERVABILITY"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1700&pause=500&color=7DD3FC&center=true&vCenter=true&width=1000&lines=LINUX+%2F%2F+BASH+%2F%2F+GIT+%2F%2F+GITHUB;AWS+%2F%2F+EC2+%2F%2F+S3+%2F%2F+IAM+%2F%2F+VPC;DOCKER+%2F%2F+NGINX+%2F%2F+CONTAINERS;JENKINS+%2F%2F+GITHUB+ACTIONS+%2F%2F+CI%2FCD;KUBERNETES+%2F%2F+TERRAFORM+%2F%2F+ANSIBLE;PROMETHEUS+%2F%2F+GRAFANA+%2F%2F+OBSERVABILITY"/>
 
 </div>
 
 ---
 
-## `03 // DELIVERY`
+## `03 // LIVE DELIVERY`
 
 <div align="center">
 
-### SOURCE
-
-↓
-
-### `Git + GitHub`
-
-↓
-
-### INTEGRATE
-
-↓
-
-### `CI/CD + Jenkins`
-
-↓
-
-### PACKAGE
-
-↓
-
-### `Docker`
-
-↓
-
-### INFRASTRUCTURE
-
-↓
-
-### `AWS + Linux + Nginx`
-
-↓
-
-### OBSERVE
-
-↓
-
-### `Prometheus + Grafana`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=1300&pause=450&color=38BDF8&center=true&vCenter=true&width=1000&height=80&lines=%24+git+push+origin+main;%5B+TRIGGERED+%5D+CI%2FCD+Pipeline;%5B+BUILDING+%5D+Application;%5B+TESTING+%5D+Running+Checks;%5B+PACKAGING+%5D+Docker+Image;%5B+DEPLOYING+%5D+AWS+Cloud;%5B+MONITORING+%5D+Infrastructure;%5B+SUCCESS+%5D+Deployment+Completed+%E2%9C%93" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1300&pause=400&color=22C55E&center=true&vCenter=true&width=900&lines=%E2%9C%93+CODE;%E2%9C%93+BUILD;%E2%9C%93+TEST;%E2%9C%93+PACKAGE;%E2%9C%93+DEPLOY;%E2%9C%93+OBSERVE;%E2%86%BB+REPEAT"/>
+<img src="https://img.shields.io/badge/BUILD-PASSING-22C55E?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DEPLOY-ACTIVE-0284C7?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SYSTEM-HEALTHY-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Actions-0D1117?style=flat-square&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2700&pause=800&color=94A3B8&center=true&vCenter=true&width=900&lines=Build+Status%3A+Passing+%E2%9C%93;Deployment+Status%3A+Active+%E2%9C%93;Infrastructure+Status%3A+Healthy+%E2%9C%93;Monitoring+Status%3A+Online+%E2%9C%93" />
 
 </div>
 
 ---
 
-## `04 // ACTIVE WORK`
+## `04 // CLOUD LAB`
 
-### ☁️ Cloud Deployment
+<div align="center">
 
-Provisioning Linux environments and deploying applications on AWS.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=1900&pause=500&color=22D3EE&center=true&vCenter=true&width=950&lines=AWS+%E2%80%A2+EC2+%E2%80%A2+IAM+%E2%80%A2+S3+%E2%80%A2+VPC;Linux+%E2%80%A2+Bash+%E2%80%A2+SSH+%E2%80%A2+Networking;Docker+%E2%80%A2+Images+%E2%80%A2+Containers+%E2%80%A2+Volumes;GitHub+Actions+%E2%80%A2+Jenkins+%E2%80%A2+Automation;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Infrastructure+as+Code;Prometheus+%E2%80%A2+Grafana+%E2%80%A2+Observability"/>
 
-`EC2` `Linux` `Nginx` `SSH` `Git`
+<br><br>
 
-**→** [Browse cloud projects](https://github.com/Om-Kute?tab=repositories)
+`INFRASTRUCTURE`   `AUTOMATION`   `CONTAINERS`   `OBSERVABILITY`
+
+</div>
+
+---
+
+## `05 // BUILD LOG`
+
+### ☁️ AWS Infrastructure
+
+Deploying applications on AWS Linux environments and working with cloud infrastructure.
+
+`AWS` `EC2` `Linux` `SSH` `Nginx`
+
+<a href="https://github.com/Om-Kute?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Cloud_Projects-0284C7?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+</a>
 
 <br>
 
 ### 🐳 Containerization
 
-Packaging applications into portable and reproducible environments.
+Building portable and reproducible application environments using Docker.
 
-`Docker` `Images` `Containers` `Volumes`
+`Docker` `Images` `Containers` `Volumes` `Linux`
 
-**→** [Browse container projects](https://github.com/Om-Kute?tab=repositories)
-
-<br>
-
-### ⚙️ Delivery Automation
-
-Building toward automated integration and deployment workflows.
-
-`GitHub Actions` `Jenkins` `CI/CD`
-
-**→** [Browse automation projects](https://github.com/Om-Kute?tab=repositories)
+<a href="https://github.com/Om-Kute?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Docker_Projects-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</a>
 
 <br>
 
-### 🐧 Linux Engineering
+### ⚙️ CI/CD Automation
 
-Practicing administration, permissions, services, processes, networking and troubleshooting.
+Building automated workflows for application integration and deployment.
 
-`Linux` `Ubuntu` `Bash` `SSH`
+`GitHub Actions` `Jenkins` `Git` `Docker`
 
-**→** [Browse Linux projects](https://github.com/Om-Kute?tab=repositories)
+<a href="https://github.com/Om-Kute?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Automation-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</a>
+
+<br>
+
+### 🐧 Linux Systems
+
+Practicing server administration, services, permissions, networking, SSH and troubleshooting.
+
+`Linux` `Ubuntu` `Bash` `SSH` `Nginx`
+
+<a href="https://github.com/Om-Kute?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Linux_Projects-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</a>
 
 ---
 
-## `05 // LEARNING STREAM`
+## `06 // CURRENT TRANSMISSION`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=650&color=38BDF8&center=true&vCenter=true&width=1000&height=90&lines=NOW+%E2%86%92+AWS+%2B+LINUX;NOW+%E2%86%92+DOCKER+%2B+CI%2FCD;NEXT+%E2%86%92+JENKINS;NEXT+%E2%86%92+KUBERNETES;NEXT+%E2%86%92+TERRAFORM;LATER+%E2%86%92+PROMETHEUS+%2B+GRAFANA"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=600&color=38BDF8&center=true&vCenter=true&width=1000&height=90&lines=%5B+ACTIVE+%5D+AWS+Cloud;%5B+ACTIVE+%5D+Linux+Systems;%5B+ACTIVE+%5D+Docker;%5B+BUILDING+%5D+CI%2FCD;%5B+LEARNING+%5D+Jenkins;%5B+NEXT+%5D+Kubernetes;%5B+NEXT+%5D+Terraform;%5B+QUEUED+%5D+Prometheus+%2B+Grafana" />
 
 <br>
 
-`AWS`　→　`DOCKER`　→　`CI/CD`　→　`JENKINS`　→　`K8S`　→　`IaC`　→　`OBSERVABILITY`
+<img src="https://img.shields.io/badge/AWS-ACTIVE-22C55E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LINUX-ACTIVE-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DOCKER-ACTIVE-22C55E?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CI%2FCD-BUILDING-0284C7?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JENKINS-LEARNING-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/KUBERNETES-NEXT-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TERRAFORM-NEXT-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OBSERVABILITY-QUEUED-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=900&lines=Learning+the+systems+behind+the+software.;Turning+manual+steps+into+automation.;Building+one+project+at+a+time.;One+deployment+closer+to+DevOps." />
 
 </div>
 
 ---
 
-## `06 // SYSTEM METRICS`
+## `07 // GITHUB SIGNAL`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=020617&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&area_color=075985&hide_border=true&custom_title=GitHub%20Activity" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=020617&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&area_color=075985&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Om-Kute?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Om-Kute?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS"/>
 
 <img src="https://komarev.com/ghpvc/?username=Om-Kute&label=PROFILE+VIEWS&color=0284C7&style=for-the-badge"/>
 
@@ -194,17 +248,17 @@ Practicing administration, permissions, services, processes, networking and trou
 
 ---
 
-## `07 // ACHIEVEMENTS`
+## `08 // ACHIEVEMENTS`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/>
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION ENGINE`
+## `09 // CONTRIBUTION ENGINE`
 
 <div align="center">
 
@@ -228,58 +282,68 @@ src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake.svg">
 
 ---
 
-## `09 // PRINCIPLES`
+## `10 // ENGINEERING MINDSET`
 
 <div align="center">
 
-### `AUTOMATE` what repeats
-
-### `VERSION` everything
-
-### `MONITOR` what matters
-
-### `DOCUMENT` what you build
-
-### `IMPROVE` what fails
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2100&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=AUTOMATE+%E2%86%92+What+Repeats;VERSION+%E2%86%92+Everything;MONITOR+%E2%86%92+What+Matters;DOCUMENT+%E2%86%92+What+You+Build;IMPROVE+%E2%86%92+What+Fails" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=900&lines=No+manual+step+should+stay+manual+forever.;Infrastructure+should+be+repeatable.;Deployments+should+be+boring.;Failures+should+teach+the+next+deployment." />
+### `AUTOMATE`
+
+Remove repetitive work.
+
+### `STANDARDIZE`
+
+Make environments reproducible.
+
+### `OBSERVE`
+
+Know what your systems are doing.
+
+### `IMPROVE`
+
+Learn from every failure.
+
+<br>
+
+> **"Reliable systems are built through automation, observability and continuous improvement."**
 
 </div>
 
 ---
 
-## `10 // CONNECTION`
+## `11 // CONNECTION`
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=900&color=7DD3FC&center=true&vCenter=true&width=850&lines=Interested+in+DevOps+%26+Cloud%3F;Let's+connect+and+build+something." />
+
+<br>
+
 <a href="mailto:omkute40@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/om-kute-19b119270/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Om-Kute">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=%24+git+add+.;%24+git+commit+-m+%22build.+break.+learn.+repeat.%22;%24+git+push+origin+future;%E2%9C%93+deployment+complete." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=650&color=22C55E&center=true&vCenter=true&width=850&lines=%24+git+add+.;%24+git+commit+-m+%22keep+building%22;%24+git+push+origin+future;%E2%9C%93+deployment+successful." />
+
+<br>
+
+### `BUILD • AUTOMATE • DEPLOY • OBSERVE • REPEAT`
 
 </div>
 
 <br>
 
-<div align="center">
-
-### `STATUS: LEARNING ● BUILDING ● SHIPPING`
-
-**Cloud is the platform. Automation is the habit. Reliability is the goal.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:020617,50:0EA5E9,100:22D3EE&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0369A1,100:38BDF8&section=footer" width="100%"/>
