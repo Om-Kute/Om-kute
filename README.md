@@ -104,6 +104,17 @@ next:
 </div>
 
 ---
+## 📊 Commit Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Kute&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Om-Kute&theme=github_dark&utcOffset=5.5" />
+
+</div>
 
 # 🧪 DEVOPS LABS
 
