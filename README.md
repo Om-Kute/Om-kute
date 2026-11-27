@@ -1,15 +1,15 @@
 <!-- ================================================================ -->
-<!--  OM KUTE • GITHUB PROFILE README                                  -->
-<!--  Search for "EDIT:" to find every place you should personalise.   -->
+<!--  OM KUTE • CLOUDOPS / DEVOPS ENGINEER • GITHUB PROFILE            -->
+<!--  Search for "EDIT:" to find the few spots to personalise.         -->
 <!-- ================================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,50:0369A1,100:38BDF8&text=OM%20KUTE&fontSize=70&fontColor=F8FAFC&fontAlignY=42&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20Linux%20%E2%80%A2%20Automation&descSize=20&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0369A1,100:38BDF8&text=OM%20KUTE&fontSize=72&fontColor=F8FAFC&fontAlignY=38&desc=CloudOps%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Linux&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Infrastructure+That+Scales;Automating+Everything+That+Repeats;From+Linux+Servers+to+Cloud+Deployments;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Terraform+%E2%86%92+AWS+%E2%86%92+Docker+%E2%86%92+Kubernetes+%E2%86%92+EKS;Jenkins+CI%2FCD+with+SonarQube+%2B+Trivy+DevSecOps;8+Months+Hands-On+DevOps+Internship+Experience;Ready+for+Production+Support+and+24%C3%977+Rotational+Shifts"/>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/om-kute-19b119270/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:omkute40@gmail.com"><img src="https://img.shields.io/badge/Email-omkute40@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -17,38 +17,71 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-22C55E?style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/FOCUS-DevOps_%26_Cloud-38BDF8?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/ROLE-CloudOps_%2F_DevOps_Engineer-38BDF8?style=flat-square&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/LOCATION-Wardha%2C_Maharashtra%2C_India-0284C7?style=flat-square&labelColor=0F172A"/>
 <img src="https://komarev.com/ghpvc/?username=Om-Kute&label=PROFILE+VIEWS&color=0284C7&style=flat-square&labelColor=0F172A"/>
-<img src="https://img.shields.io/github/followers/Om-Kute?style=flat-square&logo=github&label=FOLLOWERS&color=0284C7&labelColor=0F172A"/>
 
 </div>
 
 <br>
 
-## `> whoami`
+## 🚀 Overview
 
-I'm a **DevOps & Cloud enthusiast** who cares about the full journey of an application: **source code → Linux server → container → cloud → pipeline → monitoring.**
-I build small, real projects around each stage so I understand *why* things work, not just *how* to run the commands.
+Entry-level **CloudOps / DevOps Engineer** with **8 months of hands-on internship experience** across **AWS, Linux administration, Terraform, Docker, Kubernetes and CI/CD automation**.
+I built a **Jenkins pipeline that ships containerised apps to Amazon EKS** with **SonarQube** and **Trivy** security scanning, and I'm comfortable following SOPs, troubleshooting, and supporting production operations.
+
+**Goal:** grow into a **CloudOps Engineer** role and build a long-term career in **AWS Cloud and SRE**.
+
+<div align="center">
+
+| 🧑‍💻 Experience | 🎓 Education | 🏅 Credentials | 🎯 Targeting |
+|:---:|:---:|:---:|:---:|
+| **8 months**<br>DevOps Intern | **B.Tech 2026**<br>Computer Engineering | **2 AWS Academy**<br>badges on Credly | **CloudOps · DevOps**<br>AWS · SRE path |
+
+</div>
+
+---
+
+## 🔁 Pipeline I Built
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A["💻 Code<br/>Git + GitHub"] --> B["⚙️ Jenkins<br/>Build + Test"]
+    B --> C["🔍 SonarQube<br/>Static Analysis"]
+    C --> D["🐳 Docker<br/>Build Image"]
+    D --> E["🛡️ Trivy<br/>Vulnerability Scan"]
+    E --> F["📦 Docker Hub<br/>Publish Image"]
+    F --> G["☸️ Amazon EKS<br/>Deploy"]
+    T["🏗️ Terraform<br/>Provision Infra"] -.-> G
+```
+
+<sub>Cloud-Native CI/CD Pipeline with Kubernetes: infrastructure provisioned by Terraform, deployments automated from Jenkins.</sub>
+
+</div>
+
+---
+
+## 💼 Experience
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="22%" valign="top">
 
-**🎯 Target roles**
-- DevOps Engineer (Junior / Associate)
-- Cloud Engineer
-- Linux / Systems Administrator
-- Site Reliability (learning path)
+**DevOps Engineer Intern**<br>
+Hisan Labs Pvt. Ltd.<br>
+<sub>`Mar 2026 – Nov 2026`</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="78%" valign="top">
 
-**📍 Right now**
-- 🔨 Building: end-to-end DevOps projects
-- 📚 Deepening: AWS · Docker · CI/CD
-- 🧭 Next up: Jenkins · Kubernetes · Terraform
-- 📡 After that: Prometheus · Grafana
+- ☁️ Provisioned and managed **AWS infrastructure with Terraform (IaC)** for application deployment and hosting
+- 🔐 Used **EC2, S3, IAM and VPC** for infrastructure setup, access control and application hosting
+- 🐧 Administered **Linux (Ubuntu)** environments: process management, file permissions, command-line troubleshooting, Bash scripting
+- ☸️ Deployed containerised apps with **Docker and Kubernetes** (Deployments, Services, Ingress, ConfigMaps, Secrets)
+- ⚙️ Supported **CI/CD workflows** and deployment automation with Git, GitHub and Jenkins
 
 </td>
 </tr>
@@ -56,122 +89,100 @@ I build small, real projects around each stage so I understand *why* things work
 
 ---
 
-## 🔁 How I Think About Delivery
-
-```mermaid
-flowchart LR
-    A[💻 Code<br/>Git + GitHub] --> B[⚙️ CI Pipeline<br/>GitHub Actions / Jenkins]
-    B --> C[🐳 Build Image<br/>Docker]
-    C --> D[☁️ Deploy<br/>AWS EC2 + Nginx]
-    D --> E[📡 Monitor<br/>Prometheus + Grafana]
-    E -. feedback .-> A
-```
+## ⚙️ Tech Stack
 
 <div align="center">
 
-`UNDERSTAND → AUTOMATE → OPERATE → IMPROVE`
-
-</div>
-
----
-
-## ⚙️ Toolchain
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,aws,docker,nginx&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,ansible,linux,ubuntu,bash&theme=dark"/>
 <br>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,kubernetes,terraform,ansible,prometheus,grafana,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,mysql,mongodb,azure,gcp&theme=dark"/>
 
 </div>
 
 <br>
 
-<!-- EDIT: adjust the status of each row honestly. Recruiters respect accuracy. -->
-
-| Area | Tools | Status |
-|---|---|---|
-| **Operating Systems** | Linux (Ubuntu), Bash, SSH, systemd, permissions, networking | 🟢 Hands-on |
-| **Version Control** | Git, GitHub, branching, pull requests | 🟢 Hands-on |
-| **Cloud** | AWS: EC2, IAM, S3, VPC | 🟢 Hands-on |
-| **Containers** | Docker: images, containers, volumes, networks | 🟢 Hands-on |
-| **Web Servers** | Nginx: reverse proxy, static hosting | 🟢 Hands-on |
-| **CI/CD** | GitHub Actions, Jenkins | 🟡 Building |
-| **Orchestration & IaC** | Kubernetes, Terraform, Ansible | 🔵 Learning next |
-| **Observability** | Prometheus, Grafana | 🔵 Learning next |
+| Category | Skills |
+|---|---|
+| ☁️ **Cloud (AWS)** | EC2 · S3 · RDS · CloudWatch · Lambda · IAM · VPC · EKS · DynamoDB · Route 53 · CloudFormation · EBS · EFS · ELB · CloudFront <br> *Working knowledge:* Microsoft Azure, Google Cloud Platform |
+| 🏗️ **Infrastructure as Code** | Terraform · AWS CloudFormation · Ansible |
+| 🐳 **Containers & Orchestration** | Docker · Docker Compose · Kubernetes · Amazon EKS (Pods, Deployments, Services, Ingress, ConfigMaps, Secrets, Namespaces) |
+| 🔁 **CI/CD & Version Control** | Jenkins · GitHub Actions · Deployment Automation · Git · GitHub |
+| 🛡️ **DevSecOps** | SonarQube (static code analysis) · Trivy (container vulnerability scanning) |
+| 🐧 **Linux & OS** | Ubuntu · process management · file permissions · user management · CLI troubleshooting · Windows |
+| 📡 **Monitoring** | AWS CloudWatch: metrics, logs, alarms |
+| 🌐 **Networking** | TCP/IP · DNS · DHCP · HTTP/HTTPS · SSH · Subnetting · VPC · Security Groups · Load Balancing |
+| 🗄️ **Databases** | SQL · MySQL · MariaDB · MongoDB · Amazon RDS · DynamoDB |
+| 💻 **Scripting** | Python · Shell · Bash · Java |
 
 ---
 
 ## 🧪 Featured Projects
 
-<!-- EDIT: replace REPO_NAME_1..4 with your real repository names.
-     These pin cards pull the repo description and language automatically. -->
+<!-- EDIT: replace the repo names below with your real repository names so the pin cards load. -->
 
 <div align="center">
 
-<a href="https://github.com/Om-Kute/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Om-Kute/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Om-Kute/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Om-Kute/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" width="48%"/></a>
+<a href="https://github.com/Om-Kute/CICD_REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=CICD_REPO_NAME&theme=tokyonight&hide_border=true" width="32%"/></a>
+<a href="https://github.com/Om-Kute/SERVERLESS_REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=SERVERLESS_REPO_NAME&theme=tokyonight&hide_border=true" width="32%"/></a>
+<a href="https://github.com/Om-Kute/TRAVELEASE_REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=TRAVELEASE_REPO_NAME&theme=tokyonight&hide_border=true" width="32%"/></a>
 
 </div>
 
 <br>
 
-<!-- EDIT: fill in the real problem / outcome for each project.
-     "Problem → Solution → Result" is what recruiters scan for. -->
+<details open>
+<summary><b>☸️ Cloud-Native CI/CD Pipeline with Kubernetes</b> &nbsp; <code>Jenkins</code> <code>Terraform</code> <code>EKS</code> <code>Docker</code> <code>SonarQube</code> <code>Trivy</code></summary>
+<br>
+
+- Designed and built a **Jenkins CI/CD pipeline** that automates application build, test and deployment
+- Provisioned cloud infrastructure with **Terraform** and automated deployment to **Amazon EKS** from the pipeline
+- Containerised applications with **Docker** and published images to **Docker Hub**
+- Integrated **SonarQube** static code analysis and **Trivy** vulnerability scanning (DevSecOps)
+
+<sub><b>Stack:</b> Jenkins · Git · GitHub · Docker · Kubernetes · AWS EKS · Terraform · SonarQube · Trivy · Linux</sub>
+
+</details>
 
 <details open>
-<summary><b>☁️ Cloud Deployment on AWS</b> &nbsp; <code>AWS</code> <code>EC2</code> <code>Linux</code> <code>Nginx</code></summary>
+<summary><b>⚡ AWS Serverless Event Processing Pipeline</b> &nbsp; <code>Lambda</code> <code>DynamoDB</code> <code>Event-Driven</code></summary>
 <br>
 
-| | |
-|---|---|
-| **Problem** | Deploying an application manually to a server is slow and error-prone. |
-| **What I built** | Provisioned an EC2 instance, secured it with IAM + security groups, configured Nginx as a reverse proxy, and deployed the app. |
-| **Result** | `[EDIT: e.g. "App live on a public endpoint, deploy time cut from 30 min to 5 min"]` |
-| **Repo** | [View repository →](https://github.com/Om-Kute?tab=repositories) |
+- Developed an **event-driven serverless architecture** using **AWS Lambda and DynamoDB** for automated event processing
+- Reduced infrastructure management overhead by using **managed, scalable AWS services** instead of servers
+
+<sub><b>Stack:</b> AWS Lambda · DynamoDB · Serverless Architecture · Event-Driven Architecture</sub>
 
 </details>
 
-<details>
-<summary><b>🐳 Containerised Application</b> &nbsp; <code>Docker</code> <code>Nginx</code> <code>Linux</code></summary>
+<details open>
+<summary><b>✈️ TravelEase: Cloud-Based Travel Booking System</b> &nbsp; <code>AWS</code> <code>Linux</code> <code>MySQL</code></summary>
 <br>
 
-| | |
-|---|---|
-| **Problem** | "Works on my machine" environments that can't be reproduced. |
-| **What I built** | Dockerised the app with a clean Dockerfile, persistent volumes and a networked Nginx front end. |
-| **Result** | `[EDIT: e.g. "One-command setup: docker compose up", image size reduced by X%]` |
-| **Repo** | [View repository →](https://github.com/Om-Kute?tab=repositories) |
+- Developed a **cloud-based travel booking system on AWS**, applying scalability, availability, networking and security principles
+- Managed source code with **Git and GitHub**
+
+<sub><b>Stack:</b> AWS · Linux · Networking · MySQL · Git · GitHub</sub>
 
 </details>
 
-<details>
-<summary><b>⚙️ CI/CD Pipeline Automation</b> &nbsp; <code>GitHub Actions</code> <code>Jenkins</code> <code>Docker</code></summary>
-<br>
+---
 
-| | |
-|---|---|
-| **Problem** | Manual build, test and release steps slow teams down and introduce mistakes. |
-| **What I built** | An automated workflow that builds, tests and deploys on every push. |
-| **Result** | `[EDIT: e.g. "Zero-touch deploys on merge to main"]` |
-| **Repo** | [View repository →](https://github.com/Om-Kute?tab=repositories) |
+## 🏅 Certifications
 
-</details>
+| Credential | Issuer | Proof |
+|---|---|---|
+| **AWS Academy Graduate: Cloud Foundations** | Amazon Web Services (AWS Academy) | [![Credly](https://img.shields.io/badge/Credly-Digital_Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/go/w64zp47c) |
+| **AWS Academy Graduate: Cloud Developing** | Amazon Web Services (AWS Academy) | [![Credly](https://img.shields.io/badge/Credly-Training_Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/go/z28YTS6u) |
+| **Recognition Certificate: Cloud and DevOps with AI Bootcamp** | Exlearn Technologies | `Certificate` |
 
-<details>
-<summary><b>🐧 Linux Administration Lab</b> &nbsp; <code>Bash</code> <code>SSH</code> <code>systemd</code> <code>Nginx</code></summary>
-<br>
+---
 
-| | |
-|---|---|
-| **Problem** | Repetitive server tasks done by hand. |
-| **What I built** | Bash scripts for user management, log handling, backups and service health checks. |
-| **Result** | `[EDIT: e.g. "Automated 6 recurring admin tasks"]` |
-| **Repo** | [View repository →](https://github.com/Om-Kute?tab=repositories) |
+## 🎓 Education
 
-</details>
+| Qualification | Institute | Year | Score |
+|---|---|---|---|
+| **B.Tech, Computer Engineering** | Bajaj Institute of Technology, Wardha | 2026 | CGPA 7.0 |
+| **Diploma, Computer Engineering** | Government Polytechnic, Arvi | 2023 | 68.69% |
 
 ---
 
@@ -186,30 +197,11 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com/?user=Om-Kute&theme=tokyonight&hide_border=true" width="70%"/>
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Om-Kute&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/>
-
 </div>
 
----
-
-## 🗺️ Learning Roadmap
-
-- [x] Linux fundamentals, Bash scripting, SSH
-- [x] Git & GitHub workflows
-- [x] AWS core services (EC2, IAM, S3, VPC)
-- [x] Docker & containerisation
-- [ ] CI/CD with GitHub Actions & Jenkins &nbsp; `← in progress`
-- [ ] Infrastructure as Code with Terraform
-- [ ] Configuration management with Ansible
-- [ ] Kubernetes
-- [ ] Monitoring with Prometheus & Grafana
-- [ ] Cloud certification `[EDIT: e.g. AWS Cloud Practitioner / Solutions Architect Associate]`
-
----
-
-## 🐍 Contribution Snake
+<details>
+<summary>🐍 Contribution snake</summary>
+<br>
 
 <div align="center">
 
@@ -221,23 +213,24 @@ flowchart LR
 
 </div>
 
+</details>
+
 ---
 
-## 🧠 Engineering Principles
+## 🧭 How I Work
 
 <table>
 <tr>
-<td align="center" width="20%">⚙️<br><b>Automate</b><br><sub>what repeats</sub></td>
-<td align="center" width="20%">🏗️<br><b>Standardise</b><br><sub>what you build</sub></td>
-<td align="center" width="20%">📡<br><b>Observe</b><br><sub>what matters</sub></td>
-<td align="center" width="20%">🔧<br><b>Debug</b><br><sub>the root cause</sub></td>
-<td align="center" width="20%">🚀<br><b>Improve</b><br><sub>every deployment</sub></td>
+<td align="center" width="25%">⚙️<br><b>Automate</b><br><sub>what repeats</sub></td>
+<td align="center" width="25%">🏗️<br><b>Codify</b><br><sub>infrastructure with Terraform</sub></td>
+<td align="center" width="25%">🛡️<br><b>Secure</b><br><sub>in the pipeline, not after</sub></td>
+<td align="center" width="25%">🔧<br><b>Troubleshoot</b><br><sub>to the root cause</sub></td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=850&color=94A3B8&center=true&vCenter=true&width=950&lines=Reliable+beats+clever.;Repeatable+beats+manual.;Observable+beats+invisible.;Automation+removes+repetition."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=850&color=94A3B8&center=true&vCenter=true&width=900&lines=Reliable+beats+clever.;Repeatable+beats+manual.;Observable+beats+invisible."/>
 
 </div>
 
@@ -247,7 +240,8 @@ flowchart LR
 
 <div align="center">
 
-I'm actively looking for **DevOps / Cloud** opportunities. If you're hiring or want to collaborate, I'd love to hear from you.
+Looking for a **CloudOps / DevOps Engineer** role where I can grow in **AWS Cloud and SRE**.
+Open to production support and **24×7 rotational shifts**.
 
 <br>
 
@@ -256,12 +250,6 @@ I'm actively looking for **DevOps / Cloud** opportunities. If you're hiring or w
 <a href="https://github.com/Om-Kute"><img src="https://img.shields.io/badge/FOLLOW_ME-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
-
-```bash
-$ git add .
-$ git commit -m "keep learning"
-$ git push origin future
-```
 
 <sub>`BUILD • AUTOMATE • DEPLOY • OBSERVE • REPEAT`</sub>
 
