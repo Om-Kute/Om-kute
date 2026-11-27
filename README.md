@@ -1,214 +1,58 @@
-# 👋 Hi, I'm Om Kute
+<div align="center"><!-- ANIMATED HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,25:0B1B3A,55:123B73,80:075985,100:06B6D4&text=OM%20KUTE&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=☁%20CLOUD%20%7C%20DEVOPS%20%7C%20AUTOMATION%20☁&descSize=18&descAlignY=62&animation=twinkling"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=650&color=38BDF8&center=true&vCenter=true&width=850&lines=AWS+%E2%98%81+Terraform+%E2%9A%99+Docker+%F0%9F%90%B3;Kubernetes+%E2%98%B8+Jenkins+%E2%9A%A1+CI%2FCD;Build+%E2%80%A2+Automate+%E2%80%A2+Deploy+%E2%80%A2+Repeat;Turning+Infrastructure+into+Code"/>
+<a href="https://www.linkedin.com/in/om-kute-19b119270/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Om-Kute?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:omkute40@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/TERRAFORM-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Om-Kute&style=flat-square&color=06B6D4&label=PROFILE+VIEWS"/></div><!-- ANIMATED DIVIDER -->
 <div align="center">
-
-# ☁️ Cloud & DevOps Engineer
-
-**AWS | Linux | Terraform | Docker | Kubernetes | CI/CD**
-
-Building, automating and managing cloud infrastructure.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-kute-19b119270/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Om-Kute)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:omkute40@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Om-Kute&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **Cloud & DevOps Engineer** with hands-on internship experience at **Hisan Labs Pvt. Ltd.**
-
-I enjoy working with cloud infrastructure, Linux administration, containerization, infrastructure automation and CI/CD pipelines.
-
-My technical interests include:
-
-- ☁️ Building and managing infrastructure on AWS.
-- 🏗️ Infrastructure as Code using Terraform.
-- 🐳 Containerization using Docker.
-- ☸️ Container orchestration using Kubernetes and Amazon EKS.
-- ⚙️ Automating deployments using Jenkins and GitHub Actions.
-- 🔐 Integrating security tools such as SonarQube and Trivy.
-- 🐧 Linux administration and Shell scripting.
-
-**Career Focus:** Cloud Engineering | DevOps | AWS | Site Reliability Engineering (SRE)
-
----
-
-## 💼 Experience
-
-**DevOps Engineer Intern — Hisan Labs Pvt. Ltd.**
-
-`March 2026 – November 2026`
-
-- Worked with AWS cloud infrastructure and services.
-- Practiced infrastructure provisioning using Terraform.
-- Worked with Linux administration and Bash scripting.
-- Worked with Docker containers and Kubernetes deployments.
-- Explored CI/CD automation using Git, GitHub and Jenkins.
-- Worked with AWS IAM, EC2, S3 and VPC.
-
----
-
-## 🛠️ Technical Skills
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**AWS Services:** EC2, S3, IAM, VPC, RDS, EKS, Lambda, DynamoDB, CloudWatch, Route 53, EBS, EFS, ELB, CloudFront.
-
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-### ⚙️ CI/CD & DevSecOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
-
-### 🐧 Operating Systems & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 1. AWS Serverless Event Processing Pipeline
-
-**Technologies:** AWS Lambda | S3 | DynamoDB | IAM | CloudWatch | Python
-
-- Built an event-driven architecture using Amazon S3 and AWS Lambda.
-- Automated event processing using Python.
-- Used DynamoDB for storing processed event data.
-- Applied IAM permissions and CloudWatch monitoring.
-
-🔗 [View Repository](https://github.com/Om-Kute/aws-serverless-event-processing-pipeline)
-
-### 2. TravelEase – Cloud-Based Travel Booking System
-
-**Technologies:** AWS | Linux | MySQL | Networking | Git
-
-- Developed a cloud-based travel booking application.
-- Applied cloud hosting and infrastructure concepts.
-- Used Git and GitHub for source code management.
-
-🔗 [View Repository](https://github.com/Om-Kute/TravelEase-Cloud-Based-Travel-Booking-System)
-
-### 3. 100 Days of DevOps
-
-**Technologies:** Linux | Networking | AWS | Docker | Kubernetes | Terraform
-
-- Documenting my DevOps learning journey.
-- Practicing Linux commands and Shell scripting.
-- Exploring cloud infrastructure and containerization.
-- Sharing practical commands, configurations and projects.
-
-🔗 [View Repository](https://github.com/Om-Kute/100-days-devops)
-
----
-
-## 🔄 My DevOps CI/CD Workflow
-
-```mermaid
+  <img width="80%" src="https://user-images.githubusercontent.com/74038190/216656977-6b4c5a7e-1d8b-4a52-a6f1-8b6f4a8b2c5a.gif" alt="animated line"/>
+</div>⚡ TECHNOLOGY STACK
+<div align="center"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,linux,ubuntu,bash,python,git,github&perline=8&theme=dark"/></div>🚀 FEATURED REPOSITORIES
+<div align="center"><a href="https://github.com/Om-Kute/aws-serverless-event-processing-pipeline">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=aws-serverless-event-processing-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/Om-Kute/TravelEase-Cloud-Based-Travel-Booking-System">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=TravelEase-Cloud-Based-Travel-Booking-System&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/Om-Kute/100-days-devops">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Om-Kute&repo=100-days-devops&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/Om-Kute">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github"/>
+</a></div>♾️ CI/CD AUTOMATION
+<div align="center">```mermaid
 flowchart LR
-    A[GitHub] --> B[Jenkins]
-    B --> C[Build & Test]
-    C --> D[SonarQube]
-    D --> E[Docker Build]
-    E --> F[Trivy Scan]
-    F --> G[Docker Hub]
-    G --> H[Kubernetes / EKS]
-    I[Terraform] --> H
+    A["💻 GitHub"] --> B["⚙️ Jenkins"]
+    B --> C["🧪 Build & Test"]
+    C --> D["🔍 SonarQube"]
+    D --> E["🐳 Docker"]
+    E --> F["🛡️ Trivy"]
+    F --> G["📦 Docker Hub"]
+    G --> H["☸️ Amazon EKS"]
+    I["🏗️ Terraform"] -.-> H
+
+    classDef blue fill:#082f49,stroke:#38bdf8,color:#fff
+    classDef purple fill:#3b0764,stroke:#c084fc,color:#fff
+    classDef green fill:#064e3b,stroke:#34d399,color:#fff
+    class A,B,C blue
+    class D,F purple
+    class E,G,H,I green
 ```
-
-**Goal:** Automate application delivery while improving deployment consistency, security and reliability.
-
----
-
-## 🏅 Certifications
-
-- AWS Academy Graduate – Cloud Foundations.
-- AWS Academy Graduate – Cloud Developing.
-- Cloud and DevOps with AI Bootcamp – Exlearn Technologies.
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Engineering**
-
-Bajaj Institute of Technology, Wardha | 2026
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Om-Kute&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-snake-dark.svg)
-
-</div>
-
----
-
-## 🎯 My DevOps Philosophy
-
-> Automate repetitive tasks.  
-> Build reliable infrastructure.  
-> Secure every deployment.  
-> Monitor everything.  
-> Learn something new every day.
-
----
-
-## 🤝 Let's Connect!
-
-I'm interested in opportunities related to:
-
-- Cloud Engineer
-- DevOps Engineer
-- AWS Cloud Engineer
-- Linux Administrator
-- Junior Site Reliability Engineer
-
-📧 **Email:** [omkute40@gmail.com](mailto:omkute40@gmail.com)
-
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/om-kute-19b119270/)
-
-💻 **GitHub:** [Explore my projects](https://github.com/Om-Kute)
-
-<div align="center">
-
-### BUILD • AUTOMATE • DEPLOY • MONITOR • REPEAT 🚀
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=PLAN+%E2%86%92+CODE+%E2%86%92+BUILD+%E2%86%92+TEST;SCAN+%E2%86%92+RELEASE+%E2%86%92+DEPLOY+%E2%86%92+MONITOR"/></div>📊 GITHUB ANALYTICS
+<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Om-Kute&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kute&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Om-Kute&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Kute&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/></div>🐍 CONTRIBUTION SNAKE
+<div align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Om-Kute/Om-Kute/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture></div><div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=KEEP+BUILDING.+KEEP+AUTOMATING.;LEARN+%E2%80%A2+BUILD+%E2%80%A2+DEPLOY+%E2%80%A2+MONITOR;THE+NEXT+DEPLOYMENT+IS+BETTER."/><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,45:123B73,100:050816"/></div>
